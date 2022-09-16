@@ -1,0 +1,60 @@
+{
+  "news": [
+    {
+      "url": "https://c.ndtvimg.com/2021-12/2co7m9f8_delhi-covid-testing-ani-650_650x400_30_December_21.jpg",
+      "author": "NDTV News",
+      "title": "Delhi Covid Positivity Up 26% Since Yesterday; 461 New Cases, 2 Deaths - NDTV",
+      "description": "Delhi today reported a COVID-19 positivity rate of 5.33 per cent, up 26 per cent since yesterday. The national capital also reported 461 new cases today, up 26 per cent since yesterday.",
+      "urlToSource": "https://www.ndtv.com/india-news/delhi-covid-positivity-5-33-today-26-up-since-yesterday-461-new-cases-26-more-than-yesterday-2-deaths-2893818",
+      "id": 8
+    },
+    {
+      "url": "https://images.cnbctv18.com/wp-content/uploads/2021/06/hdfcbank_online1-1019x573.jpg",
+      "author": "CNBCTV18",
+      "title": "HDFC Bank Q4 Results: NII up 2.3% QoQ to Rs 18,873 crore; profit after tax dips 2.8% sequentially to Rs 10,055 - CNBCTV18",
+      "description": "Overall, the bank said it was an operationally weak quarter with its lowest-over operating profit growth and its net interest margin (NIM) at an all-time low.",
+      "urlToSource": "https://www.cnbctv18.com/business/companies/hdfc-bank-q4-results-nii-up-23-qoq-to-rs-18873-crore-profit-after-tax-dips-28-sequentially-to-rs10055-crore-13172932.htm",
+      "id": 9
+    },
+    {
+      "url": "https://www.pinkvilla.com/files/styles/fbimagesection/public/kgf-2-advance-booking-final-box-office-social_0.jpg?itok=dzf5ea8Q",
+      "author": "PINKVILLA",
+      "title": "Box Office Trends: KGF 2 nears 150 crore in Hindi; Yash clocks nationwide opening weekend of 320 crore plus - PINKVILLA",
+      "description": "Box Office Report: The worldwide biz of KGF 2 through its four day opening weekend would have grossed Rs 500 crore, and this is yet another historic feat in the offing for this gangster drama",
+      "urlToSource": "https://www.pinkvilla.com/entertainment/box-office/box-office-trends-kgf-2-nears-150-crore-hindi-yash-clocks-nationwide-opening-weekend-320-crore-plus",
+      "id": 10
+    },
+    {
+      "url": "https://images.livemint.com/img/2022/04/16/600x338/Rakesh_Jhunjhunwala_1650024124267_1650111899809.jpg",
+      "author": "Livemint",
+      "title": "Rakesh Jhunjhunwala And Wife Rekha Trim Stakes In This Mumbai-based Firm During Q4 | Mint - Mint",
+      "description": "Together, the couple's holding in Aptech has declined by 0.05% to 23.38% compared to the previous quarter's 23.43%.",
+      "urlToSource": "https://www.livemint.com/market/stock-market-news/rakesh-jhunjhunwala-and-wife-rekha-trim-stakes-in-this-mumbai-based-firm-during-q4-11650111289818.html",
+      "id": 11
+    },
+    {
+      "url": "https://images.hindustantimes.com/tech/img/2022/05/20/1600x900/iPhone_13_Mini_(2)_1633112418190_1653037660628.jpg",
+      "author": "Hindustan Times",
+      "title": "iPhone 14: Let us talk about this iPhone 13 successor, will it be WORTH buying? - HT Tech",
+      "description": "The iPhone 14 is expected to be announced sometime around September 2022 and prior to that, leaks have almost revealed everything. Here is what we know.",
+      "urlToSource": "https://tech.hindustantimes.com/tech/news/iphone-14-let-us-talk-about-this-iphone-13-successor-will-it-be-worth-buying-71653037583012.html",
+      "id": 12
+    },
+    {
+      "url": "https://timesofindia.indiatimes.com/photo/91684097/size-49076/91684097.jpg",
+      "author": "The Times of India",
+      "title": "Kangana Ranaut unveils her swanky new car worth Rs 3.6 crore at 'Dhaakad' premiere - Times of India",
+      "description": "Bollywood diva Kangana Ranaut recently hosted a premiere of her movie 'Dhaakad' and on the same occasion, the actress also unveiled her latest purchase which was a swanky new Mercedes Maybach S680. Her new ride is reportedly worth Rs 3.6 crore. Kangana was ac…",
+      "urlToSource": "https://timesofindia.indiatimes.com/videos/entertainment/hindi/kangana-ranaut-unveils-her-swanky-new-car-worth-rs-3-6-crore-at-dhaakad-premiere/videoshow/91684097.cms",
+      "id": 13
+    },
+    {
+      "url": "https://c.ndtvimg.com/2022-06/brug04vo_shaheen-afridi-806_625x300_11_June_22.jpg",
+      "author": "NDTV News",
+      "title": "Watch: How Shaheen Afridi Perfectly Set Up Shai Hope In Brilliant 1st Over - NDTV Sports",
+      "description": "PAK vs WI: Shaheen Afridi dismissed Shai Hope in the first over of West Indies' chase in the 2nd ODI.",
+      "urlToSource": "https://sports.ndtv.com/cricket/pakistan-vs-west-indies-how-shaheen-afridi-perfectly-set-up-shai-hope-in-brilliant-1st-over-watch-3057519",
+      "id": 14
+    }
+  ]
+}
