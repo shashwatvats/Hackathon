@@ -1,6 +1,7 @@
 import React, { useContext } from "react";
 import { useState } from "react";
 import { useEffect } from "react";
+import { Link } from "react-router-dom";
 import { v4 as uuidv4 } from "uuid";
 import './Dashboard.css';
 export default function Dashboard() {
@@ -21,7 +22,7 @@ export default function Dashboard() {
           <tbody>
             <tr>
               <th scope="row">1</th>
-              <td>Mark</td>
+              <td><Link to="/dashboard/mark">Mark</Link></td>
               <td>Otto</td>
               <td><span class="badge badge-success">Completed</span></td>
             </tr>

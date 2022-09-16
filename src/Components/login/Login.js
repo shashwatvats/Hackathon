@@ -18,27 +18,21 @@ function Login(props) {
   };
   let history = useHistory();
   const [password, setpassword] = useState("");
-  const [username, setusername] = useState("");
+  const [userName, setuserName] = useState("");
   const [error, seterror] = useState("");
   const [open, setOpen] = React.useState(false);
   async function atLogin() {
-    const res = await fetch("http://localhost:3001/auth/v1", {
+    fetch("http://www.interviewFirst.com:8081/panel/login", {
       method: "POST",
       headers: {
+        "appId": "123",
+        "systemId": "vinit",
         "Content-Type": "application/json",
       },
-      body: JSON.stringify({ username, password }),
-    });
-    const data = await res.json();
-    if (data.token) {
-      localStorage.setItem("token", data.token);
-      props.settitleName(username);
-      await authentication.Login();
-      history.push("/dashboard");
-    } else if (data.message) {
-      seterror("Incorrect Username Or Password!");
-      setOpen(true);
-    }
+      body: JSON.stringify({ userName, password }),
+    })
+      .then(res => res.json())
+      .then(data => console.log(data));
   }
   return (
     <div
@@ -63,7 +57,7 @@ function Login(props) {
             </span>
             <input
               type="text"
-              onChange={(e) => setusername(e.target.value)}
+              onChange={(e) => setuserName(e.target.value)}
               placeholder="Enter Username"
               className="form-control"
               id="username"

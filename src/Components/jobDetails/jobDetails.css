@@ -1,0 +1,14 @@
+.bg-main {
+    background-color: #3875d5;
+    min-height: 250px;
+    min-width: 100%;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+
+.table-main {
+    margin-top: -100px;
+    z-index: 1000;
+    background-color: white;
+    border-radius: 30px !important;
+}
